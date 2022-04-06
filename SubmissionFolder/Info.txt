@@ -1,0 +1,2 @@
+We subdivided the various approaches in subfolders. The report refers to notebooks included in this folder.
+These are not all the notebook created during the challenge, but they are the most representative ones.
