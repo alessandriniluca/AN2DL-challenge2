@@ -15,7 +15,7 @@ The Leaderboard was just for us, the main purpose of this challenge (competition
 The zipped file of the dataset just contained a folder, named "train", in which there were time series samples. Pre processing (as splitting in folders, or any other kind of augmentation on images) was left to us. We had to develop different techniques in order to make prediction with the time series (such as *attention*), and to exploit different approaches.
 
 ## Our Team
-- Luca Alessanrini  
+- Luca Alessandrini  
 - Luca Venturini (added as collaborator)
 - Ruggiero Ronzulli (added as collaborator)
 
